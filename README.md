@@ -1,4 +1,4 @@
-🌱 Smart Agriculture Analytics
+#Smart Agriculture Analytics
 
 Smart Agriculture Analytics is a data-driven project designed to support farmers with better decision-making using locally collected agricultural data. The system analyzes soil, weather, and crop parameters, applies machine learning models for predictions, and presents the insights through interactive dashboards for improved agricultural planning.
 
@@ -56,3 +56,4 @@ Training, validation, and evaluation
 Visualization
 
 Dashboards showing crop trends, soil parameters, yield predictions
+
